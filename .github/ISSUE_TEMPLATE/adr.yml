@@ -23,9 +23,9 @@ body:
       description: What version of our software are you running?
       options:
         - Explicit: Important decisions about the project architecture should be clear and unambiguous
-        - **Documented:** There should be a written record describing which decisions are made
-        - **Accessible:** Decision records should be centrally located, searchable, and accessible to non-technical audiences
-        - **Portable:** The decision records should be able to travel with the code when it's forked, cloned, etc.
-        - **Maintainable:** The system we adopt should be easy to maintain or amend as needed.
+        - Documented There should be a written record describing which decisions are made
+        - Accessible Decision records should be centrally located, searchable, and accessible to non-technical audiences
+        - Portable The decision records should be able to travel with the code when it's forked, cloned, etc.
+        - Maintainable The system we adopt should be easy to maintain or amend as needed.
     validations:
       required: true
