@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to create this ADR!
-  - type: input
+  - type: textarea
     id: context
     attributes:
       label: Context and Problem Statement
